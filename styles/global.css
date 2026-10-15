@@ -1,0 +1,85 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font: inherit;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+:root{
+    --bg-color: #09090b;
+    --surface-color: #18181B;
+    --stroke-color: #27272A;
+    --tc-primary: #F4F4F5;
+    --tc-secondary: #A1A1AA;
+    --bc-primary: #f7b733; 
+    --bc-secondary: #fc4a1a;
+    
+    --ff: "Inter", system-ui, sans-serif;
+
+    --fwade-base: 400;
+    --fwade-mid: 500;
+    --fwade-bold: 800;
+
+    --fsize-sm: 0.875rem;
+    --fsize-base: 1rem;
+    --fsize-large: 1.25rem;
+    --fsize-xlarge: 1.5rem;
+    --fsize-2xlarge: 2.5rem;
+
+}
+
+html{
+    font-family: var(--ff);
+    font-weight: var(--fwade-base);
+    font-size: var(--fsize-base);
+    line-height: 1.6;
+    color: var(--tc-primary);
+}
+
+body{
+    background-color: var(--bg-color);
+
+}
+
+h1, h2, h3{
+    line-height: 1.2;
+    color: var(--tc-primary);
+    font-weight: var(--fwade-bold);
+    letter-spacing: -0.04em;
+}
+
+h1{
+    font-size: var(--fsize-2xlarge);
+}
+
+h2{
+    font-size: var(--fsize-xlarge)
+}
+
+h3{
+    font-size: var(--fsize-large);
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul [role="list"]{
+    list-style: none;
+}
+
+@media (width >= 80em){
+    :root{
+    --fsize-large: 2rem;
+    --fsize-xlarge: 3rem;
+    --fsize-2xlarge: 4rem;
+
+    }
+}
