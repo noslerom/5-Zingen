@@ -32,8 +32,11 @@
     --fsize-xlarge: 1.5rem;
     --fsize-2xlarge: 2.5rem;
 
+    --py-base: 1rem;
+    --py-large: 1.5rem;
+    --py-xlarge: 3rem;
+    
     --px-large: 1.5rem;
-
 }
 
 html{
@@ -83,7 +86,11 @@ ul [role="list"]{
     --fsize-xlarge: 3rem;
     --fsize-2xlarge: 4rem;
 
+    
+    --py-base: 1.5rem;
+    --py-large: 2.5rem;
+    --py-xlarge: 5rem;
+    
     --px-large: 2rem;
-
     }
 }
