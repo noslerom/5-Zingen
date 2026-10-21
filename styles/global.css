@@ -32,6 +32,8 @@
     --fsize-xlarge: 1.5rem;
     --fsize-2xlarge: 2.5rem;
 
+    --px-large: 1.5rem;
+
 }
 
 html{
@@ -80,6 +82,8 @@ ul [role="list"]{
     --fsize-large: 2rem;
     --fsize-xlarge: 3rem;
     --fsize-2xlarge: 4rem;
+
+    --px-large: 2rem;
 
     }
 }
