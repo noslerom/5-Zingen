@@ -4,7 +4,11 @@ Landing Page moderna para divulgação do aplicativo de karaokê Zingen.
 
 🔗 Demo Online
 👉 Acesse o projeto:
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://noslerom.github.io/5-Zingen/)
+<p align="center">
+  <a href="https://noslerom.github.io/5-Zingen/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-Live_Demo-red?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 📖 Sobre o Projeto
 O Zingen é uma landing page desenvolvida para apresentar um aplicativo de karaokê com foco em design moderno, experiência do usuário e conversão.
