@@ -1,11 +1,10 @@
 🎵 Zingen
-[Live Demo](https://noslerom.github.io/5-Zingen/)
 
 Landing Page moderna para divulgação do aplicativo de karaokê Zingen.
 
 🔗 Demo Online
 👉 Acesse o projeto:
-https://noslerom.github.io/5-Zingen/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://noslerom.github.io/5-Zingen/)
 
 📖 Sobre o Projeto
 O Zingen é uma landing page desenvolvida para apresentar um aplicativo de karaokê com foco em design moderno, experiência do usuário e conversão.
@@ -24,7 +23,6 @@ A página foi construída utilizando apenas tecnologias front-end, com uma estru
 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
-JavaScript
 Git
 GitHub Pages
 📂 Estrutura do Projeto
@@ -37,9 +35,6 @@ GitHub Pages
 │
 ├── styles/
 │   └── index.css
-│
-├── scripts/
-│   └── main.js
 │
 ├── index.html
 │
@@ -66,7 +61,7 @@ Preview do Projeto
 Caso a imagem não exista, substitua pela captura de tela oficial do projeto.
 
 👨‍💻 Autor
-Morelson
+Morelson Miguel
 
 GitHub: https://github.com/noslerom
 
