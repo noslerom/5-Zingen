@@ -45,6 +45,7 @@ html{
     font-size: var(--fsize-base);
     line-height: 1.6;
     color: var(--tc-primary);
+    overflow-x: hidden;
 }
 
 body{
